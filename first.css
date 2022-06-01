@@ -2,3 +2,23 @@ div{
     background: purple;
     color: aqua;
 }
+
+#para{
+    font-size: 2em; 
+    font-family: 'Times New Roman', Times, serif; 
+    color: blueviolet;
+}
+
+.language{
+    font-size: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aqua;
+    background-color: black;
+}
+
+.software{
+    font-size: 1em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blanchedalmond;
+    background-color: gray;
+}
